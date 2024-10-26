@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include "array.h"
 
-using namespace std;
-
 Array::Array()
 {
     this->array = new int[0];
