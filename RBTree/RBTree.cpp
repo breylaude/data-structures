@@ -1,6 +1,5 @@
 #include <iostream>
 #include "RBTree.h"
-using namespace std;
 
 RBTree ::RBTree()
 {
