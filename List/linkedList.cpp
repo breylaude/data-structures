@@ -1,7 +1,6 @@
 #include <iostream>
 #include "../Timer/timer.cpp"
 #include "linkedList.h"
-using namespace std;
 
 LinkedList::LinkedList()
 {
