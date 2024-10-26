@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 // Structure for single node of the list
 struct ListNode
