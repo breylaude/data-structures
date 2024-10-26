@@ -4,7 +4,6 @@
 #include "../Array/arrayLogic.cpp"
 #include "../Heap/heapLogic.cpp"
 #include "../RBTree/RBTreeLogic.cpp"
-using namespace std;
 
 //* Structures Declaration
 LinkedList *list = new LinkedList();
